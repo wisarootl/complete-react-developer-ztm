@@ -1,0 +1,3 @@
+[submodule "monsters-rolodex"]
+	path = monsters-rolodex
+	url = https://github.com/wisarootl/monsters-rolodex.git
