@@ -1,3 +1,6 @@
 [submodule "monsters-rolodex"]
 	path = monsters-rolodex
 	url = https://github.com/wisarootl/monsters-rolodex.git
+[submodule "crwn-clothing"]
+	path = crwn-clothing
+	url = https://github.com/wisarootl/crwn-clothing.git
